@@ -1,6 +1,7 @@
 **Welcome to My GIT Repository!**
 
-Here, you'll find everything you need to know about Git, the powerful version control system. Let's take a look at what you can expect from this repository:
+- Here, you'll find everything you need to know about Git, the powerful version control system. 
+- Let's take a look at what you can expect from this repository:
 
 ## 1. Getting Started
 ### - **1.1 About Version Control:**
@@ -73,4 +74,4 @@ Here, you'll find everything you need to know about Git, the powerful version co
 ### - **8.2 Contributing to a Project**
 ### - **8.3 Maintaining a Project**
 
-Feel free to explore each section and refer back to this readme whenever you need guidance. Happy coding with Git!
+''' Feel free to explore each section and refer back to this readme whenever you need guidance. Happy coding with Git! '''
