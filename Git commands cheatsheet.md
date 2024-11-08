@@ -54,7 +54,6 @@ Git commands cheatsheet
    - Enable Rerere: `git config --global rerere.enabled true`
    - Debug with Git: `git bisect start`
 
-*(Continued in next message)*
 **7. Git on the Server**
    - Choose a protocol for communication: `git://`, `https://`, `ssh://`
    - Set up a Git server: `git init --bare`
